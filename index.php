@@ -1,4 +1,4 @@
 <?php
-$text='Fuck you world!!!';
+$text='Fuck you Aziret!!!';
 echo ($text);
 ?>
